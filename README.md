@@ -49,8 +49,4 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dev.Simionatto)
 
 ---
-
-## 🔹 𝐂𝐨𝐦𝐦𝐢𝐭𝐬 🔹 
-![Snake animation](https://github.com/DevSimionatto/DevSimionatto/blob/output/github-contribution-grid-snake.svg)
-
 _"O sucesso é a soma de pequenos esforços repetidos diariamente." 💡_
