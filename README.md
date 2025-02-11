@@ -70,4 +70,6 @@ Bem-vindo ao meu perfil! Sou um desenvolvedor apaixonado por tecnologia, sempre 
 
 ---
 
+![snake gif](https://github.com/DevSimionatto/DevSimionatto/blob/output/github-contribution-grid-snake.svg)
+
 _"O sucesso é a soma de pequenos esforços repetidos diariamente." 💡_
