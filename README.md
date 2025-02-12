@@ -6,7 +6,7 @@
 ## 🔹 𝐄𝐬𝐭𝐚𝐭í𝐬𝐭𝐢𝐜𝐚𝐬 𝐆𝐞𝐫𝐚𝐢𝐬 🔹
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevSimionatto&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSimionatto&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevSimionatto&theme=radical) ![Profile Views](https://komarev.com/ghpvc/?username=DevSimionatto&color=blueviolet&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/DevSimionatto?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=DevSimionatto&color=blueviolet&style=for-the-badge) ![Followers](https://img.shields.io/github/followers/DevSimionatto?style=for-the-badge)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevSimionatto&theme=radical)
 
