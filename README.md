@@ -43,8 +43,6 @@
 ## 🔹𝐑𝐞𝐝𝐞𝐬 𝐒𝐨𝐜𝐢𝐚𝐢𝐬🔹
 [![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=duolingo&logoColor=white)](https://pt.duolingo.com/profile/msimionatt)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevSimionatto)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.simionatto/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-zanela-simionatto-77939b335/)
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199656365781/)
 [![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/marcos-vinicius-zanela-simionatto/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dev.Simionatto)
